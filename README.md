@@ -1,4 +1,4 @@
-
+【转】转自https://github.com/dvajs/dva-knowledgemap
 不知大家学 react 或 dva 时会不会有这样的疑惑：
 
 - es6 特性那么多，我需要全部学会吗?
